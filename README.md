@@ -1,10 +1,27 @@
 ### Hi everyone 👋 I'm Bilal Lotfi
 
-
 - 🏫 I’m currently a data scientist intern @Adria B-T
 - 👨‍💻 Enthusiastic about learning new things about data science and MLOps.
 
-## 🚀💻 Technologies & Tools
+
+
+### How to reach me
+
+<p>
+<a href="mailto:bilal.lotfi@adria-bt.com">
+    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="icon | Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/bilalltf/">
+    <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon | LinkedIn" >
+</a>
+</a>
+</p>
+<br /><br />
+
+
+
+
+### 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -19,6 +36,7 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![CUDA](https://img.shields.io/badge/NVIDIA-CUDA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![MLFlow](https://img.shields.io/badge/mlflow-%23008080.svg?style=for-the-badge&logo=mlflow&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
