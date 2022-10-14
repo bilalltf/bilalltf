@@ -1,6 +1,6 @@
 ### Hi everyone 👋 I'm Bilal Lotfi
 
-- 🏫 I’m currently a data scientist intern @Adria B-T
+- 🏫 I’m data scientist
 - 👨‍💻 Enthusiastic about learning new things about data science and MLOps.
 
 
