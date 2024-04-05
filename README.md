@@ -1,7 +1,7 @@
 ### Hi everyone 👋 I'm Bilal Lotfi
 
-- 🏫 I’m data analyst/scientist
-- 👨‍💻 Enthusiastic about learning new things about data science/analysis and MLOps.
+- 🏫 I’m a Data Engineer/Scientist
+- 👨‍💻 Enthusiastic about learning new things about data engineering, science and MLOps.
 
 
 
